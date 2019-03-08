@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: moviedate
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: NguyenHung
+Implementation-Vendor-Id: com.dts
+Build-Jdk: 1.8.0_191
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/moviedate
+Created-By: Maven Integration for Eclipse
+
